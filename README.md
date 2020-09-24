@@ -2,6 +2,7 @@
  
 # Sansekai BOT
 Sebuah bot whatsapp hasil dari refactoring : https://github.com/YogaSakti/imageToSticker
+<details>
  <summary>🥟 Help me!</summary>
 
  [Saweria](https://saweria.co/donate/yogasakti)
