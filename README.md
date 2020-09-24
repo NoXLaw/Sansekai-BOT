@@ -2,10 +2,9 @@
   <br>
   <a href="https://github.com/shansekai/Sansekai-BOT"><img src="https://raw.githubusercontent.com/shansekai/Sansekai-BOT/master/anime/original.jpg"></a>
   <br>
-  Sansekai BOT
+  Simple Bot Whatsapp
  <br>
  </h1>
- Simple BOT Whatsapp
 
 ## Getting Started
 
@@ -51,6 +50,7 @@ after running it you need to scan the qr
 |       #tts    |   Text to speech (id, jp, ar, en)     |
 |       #wait   |   What anime is this            |
 |       #meme   |   Create Custom meme (top text & bottom text)  |
+| #rmeme        | Random meme subreddit |
 |  #translate   |   Translate text (quote only)                  |
 |  #ceklokasi   |   check data on the spread of Covid-19 in certain locations|
 | #waifu        |   Show waifu random |
