@@ -430,7 +430,7 @@ module.exports = msgHandler = async (client = new Client(), message) => {
                     client.reply(from, 'Error !', id)
                 })
             } else {
-                client.sendFile(from, './img/tutod.jpg', 'Tutor.jpg', 'Neh contoh mhank!', message.id)
+                client.sendFile(from, './anime/tutod.jpg', 'Tutor.jpg', 'Neh contoh mhank!', message.id)
             }
             break
         case 'leaveall':
