@@ -1,18 +1,11 @@
-<div align="center">
- 
-# Sansekai BOT
-Sebuah bot whatsapp hasil refactoring dari : https://github.com/YogaSakti/imageToSticker
-<details>
- <summary>🥟 Help me!</summary>
-
- [Saweria](https://saweria.co/donate/yogasakti)
- 
- [Trakteer](https://trakteer.id/red-emperor)
- 
- [Paypal.me](https://paypal.me/yshputra)
- 
-</details>
-</div>
+<h1 align="center">
+  <br>
+  <a href="https://github.com/shansekai/Sansekai-BOT"><img src="https://raw.githubusercontent.com/shansekai/Sansekai-BOT/master/anime/original.jpg"></a>
+  <br>
+  Sansekai BOT
+ <br>
+ </h1>
+ Simple BOT Whatsapp
 
 ## Getting Started
 
