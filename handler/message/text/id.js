@@ -42,7 +42,7 @@ mengubah gif menjadi sticker bergerak *(hanya bisa menggunakan link dari giphy)*
 Contoh : *#gifsticker https://media.giphy.com/media/JUvI2c1ddyzkwK4RlV/giphy.gif*
 
 ➥ *#lirik*
-Request lirik lagu
+Request lirik lagu *(KALAU GAK MERESPON MUNGKIN LAGI ERROR)*
 contoh : *#lirik aku bukan boneka*
 
 ➥ *#resi* = Untuk memeriksa status pengiriman barang, daftar kurir: jne, pos, tiki, wahana, jnt, rpx, sap, sicepat, pcp, jet, dse, first, ninja, lion, idl, rex.
@@ -57,11 +57,8 @@ Mengirim gambar pokemon [ random ]
 ➥ *#inu*
 Mengirim gambar anjing [ random ]
 
-➥ *#wallanime1*
-Mengirim gambar wallpaper anime + source [ random ]
-
-➥ *#wallanime2*
-Mengirim gambar wallpaper anime no source [ random ]
+➥ *#wallanime*
+Mengirim gambar wallpaper anime [ random ]
 
 ➥ *#walldekstop*
 Megirim gambar wallpaper dekstop [ random ]
@@ -90,8 +87,7 @@ Contoh : *#qrcode i love you*
 contoh: #tts jp ohayou
 
 ➥ *#wait*
-[ What Anime Is This ], menanyakan judul anime. kirim gambar dengan caption *#wait*
-( harus dari scene/screenshot anime bukan fan art)
+[ What Anime Is This ], menanyakan judul anime. kirim gambar dengan caption *#wait* *(harus dari scene/screenshot anime bukan fan art ya su)*
 
 ➥ *#meme*
 Untuk membuat meme dengan teks atas dan bawah
@@ -121,11 +117,6 @@ Contoh : *#fb https://www.facebook.com.com/blablablabla*
 ➥ *#tiktok [link]*
 Mengunduh video dari tiktok via link
 Contoh : *#tiktok https://vt.tiktok.com/blablabla*
-
-➥ *#ig*
-Untuk mengunduh photo dan video dari instagram.
-Penggunaan: kirim pesan dengan format
-Contoh : *#ig https://www.instagram.com/blablabla/*
 
 ➥ *#joingrup*
 Memasukkan bot ke grup yang kamu kelola.
