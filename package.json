@@ -17,7 +17,7 @@
   "homepage": "https://github.com/YogaSakti/imageToSticker",
   "license": "ISC",
   "dependencies": {
-    "@open-wa/wa-automate": "^2.0.24",
+    "@open-wa/wa-automate": "^2.0.25",
     "app-root-path": "^3.0.0",
     "axios": "^0.20.0",
     "brainly-scraper": "^1.0.2",
