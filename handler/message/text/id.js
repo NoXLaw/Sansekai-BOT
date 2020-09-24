@@ -28,9 +28,14 @@ https://www.instagram.com/yusril.id_ dan juga kalau mau support botnya kamu bisa
 ketik : *#donasi*
 untuk melihat info donasi.
 
+
+*NOTE : USE DELAY PLEASE, MENTANG MENTANG GRATIS JANGAN SEENAKNYA SPAM.*
 ==========================
             Commands
 ==========================
+➥ *#rules*
+Melihat rules bot yang harus kamu patuhi.
+
 ➥ *#botstat*
 Melihat ststus bot
 
@@ -192,6 +197,8 @@ PULSA TELKOMSEL: 081283468899
 
 exports.textRules = () => {
     return `
+    *RULES BAGI PENGGUNA BOT*
+    
 ➥ Tolong Gunakan Delay Jangan Spam Saat Menggunakan Bot, Mentang Mentang Gratis Diborong semua.
 ➥ Call/VC Bot Auto Block.
 ➥ Jangan Call/VC Bot Kalau Tidak aktif, Ganggu Bgt Gblk.
