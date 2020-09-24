@@ -198,3 +198,16 @@ PULSA TELKOMSEL: 081283468899
 
 *Menerima donasi berapapun jumlahnya 🙏 Terima Kasih.*`
 }
+
+exports.textRules = () => {
+    return `
+➥ Tolong Gunakan Delay Jangan Spam Saat Menggunakan Bot, Mentang Mentang Gratis Diborong semua.
+➥ Call/VC Bot Auto Block.
+➥ Jangan Call/VC Bot Kalau Tidak aktif, Ganggu Bgt Gblk.
+
+*Konsekuensi Bila Melanggar Rules*
+Bot Akan Memblokir Kamu Atau Keluar Dari Grup Yang Kamu Kelola.
+
+Rules ini untuk kenyamanan semua yang memakai
+bot ini'
+}
