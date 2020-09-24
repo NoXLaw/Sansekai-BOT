@@ -1,7 +1,7 @@
 <div align="center">
  
 # Sansekai BOT
-Sebuah bot whatsapp hasil dari refactoring : https://github.com/YogaSakti/imageToSticker
+Sebuah bot whatsapp hasil refactoring dari : https://github.com/YogaSakti/imageToSticker
 <details>
  <summary>🥟 Help me!</summary>
 
