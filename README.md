@@ -2,9 +2,10 @@
   <br>
   <a href="https://github.com/shansekai/Sansekai-BOT"><img src="https://raw.githubusercontent.com/shansekai/Sansekai-BOT/master/anime/original.jpg"></a>
   <br>
-  Simple Bot Whatsapp
+  Sansekai BOT
  <br>
- </h1>
+  </h1>
+  Simple BOT Whatsapp
 
 ## Getting Started
 
@@ -88,3 +89,10 @@ Fix Stuck on linux, install google chrome stable:
 > wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 > sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
+
+## 🙏Special Thanks To
+<ul>
+<li>https://github.com/open-wa/wa-automate-nodejs<br>
+<li>https://github.com/YogaSakti/imageToSticker<br>
+<li>https://github.com/MhankBarBar/whatsapp-bot
+</li>
