@@ -209,5 +209,5 @@ exports.textRules = () => {
 Bot Akan Memblokir Kamu Atau Keluar Dari Grup Yang Kamu Kelola.
 
 Rules ini untuk kenyamanan semua yang memakai
-bot ini'
+bot ini `
 }
