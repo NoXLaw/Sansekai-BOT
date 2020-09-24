@@ -369,7 +369,7 @@ module.exports = msgHandler = async (client = new Client(), message) => {
         case 'rmeme':
                 meme.random()
                     .then(({ subreddit, title, url, author, nsfw}) => {
-                        client.sendFileFromUrl(from, `${url}`, 'meme.jpg', `${title}\nTag: r/${subreddit}\nAuthor: u/${author}\nNSFW: ${nsfw}`, null, null, true)
+                        client.sendFileFromUrl(from, `${url}`, 'meme.jpg', `${title}\nTag: ${subreddit}\nAuthor: ${author}\nNSFW: ${nsfw}`, null, null, true)
                     })
                     .catch((err) => console.error(err))
             break
