@@ -2,10 +2,9 @@
   <br>
   <a href="https://github.com/shansekai/Sansekai-BOT"><img src="https://raw.githubusercontent.com/shansekai/Sansekai-BOT/master/anime/original.jpg"></a>
   <br>
-  Sansekai BOT
+  Sansekai BOT Whatsapp
  <br>
   </h1>
-  Simple BOT Whatsapp
 
 ## Getting Started
 
