@@ -66,6 +66,9 @@ module.exports = msgHandler = async (client = new Client(), message) => {
         case 'tnc':
             await client.sendText(from, menuId.textTnC())
             break
+        case 'rules':
+            await client.sendText(from, menuId.textRules())
+            break
         case 'masukgrup':
         case 'joingrup':
         case 'masuk':
@@ -366,7 +369,7 @@ module.exports = msgHandler = async (client = new Client(), message) => {
         case 'rmeme':
                 meme.random()
                     .then(({ subreddit, title, url, author, nsfw}) => {
-                        client.sendFileFromUrl(from, `${url}`, 'meme.jpg', `${title}\nTag: ${subreddit}\nAuthor: ${author}\nNSFW: ${nsfw}`, null, null, true)
+                        client.sendFileFromUrl(from, `${url}`, 'meme.jpg', `${title}\nTag: r/${subreddit}\nAuthor: u/${author}\nNSFW: ${nsfw}`, null, null, true)
                     })
                     .catch((err) => console.error(err))
             break
@@ -430,7 +433,7 @@ module.exports = msgHandler = async (client = new Client(), message) => {
                     client.reply(from, 'Error !', id)
                 })
             } else {
-                client.sendFile(from, './anime/tutod.jpg', 'Tutor.jpg', 'Neh contoh mhank!', message.id)
+                client.sendFile(from, './img/tutod.jpg', 'Tutor.jpg', 'Neh contoh mhank!', message.id)
             }
             break
         case 'leaveall':
